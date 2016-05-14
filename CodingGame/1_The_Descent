@@ -1,0 +1,41 @@
+import sys
+import math
+
+# Auto-generated code below aims at helping you parse
+# the standard input according to the problem statement.
+
+# tallest mountain
+tMountain = 0
+# location for the tallest mountain
+tMountainLocation = 0
+# altitude of the ship
+altitude = 9
+# game loop
+while True:
+    # while loop is to  make sure that as the starship descents that we can get the
+    # heightest mountain. This allows the FOR LOOP to get the heightest mountain
+    while altitude > 0:
+        # get the tallest mountain
+        for i in range(8):
+            mountain_h = int(input())  # represents the height of one mountain, from 9 to 0.
+            if tMountain < mountain_h:
+                tMountain = mountain_h
+                tMountainLocation = i
+        # for loop ends, with the heightest number in the variable
+        # blast the heighest mountain
+        print(tMountainLocation)
+        tMountain = 0
+        # decrease the altitude by 1
+        altitude = altitude - 1
+
+
+
+        # find the height of the tallest mountain
+
+
+
+        # Write an action using print
+        # To debug: print("Debug messages...", file=sys.stderr)
+
+        # The number of the mountain to fire on.
+        # print("4")
