@@ -20,47 +20,23 @@
     <favorites_list name="CodingGame" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1_The_Descent" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_The_Descent">
+    <leaf>
+      <file leaf-file-name="3ProjectEuler.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ProjectEuler/3ProjectEuler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="17" column="34" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1ProjectEuler.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ProjectEuler/1ProjectEuler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="44">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2ProjectEuler.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ProjectEuler/2ProjectEuler.py">
+      <file leaf-file-name="Day0.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Hackerrank/Day0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="108">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2_Thor" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2_Thor">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -81,13 +57,15 @@
         <option value="$PROJECT_DIR$/../ProjectEuler/1ProjectEuler.py" />
         <option value="$PROJECT_DIR$/../ProjectEuler/2ProjectEuler.py" />
         <option value="$PROJECT_DIR$/2_Thor" />
+        <option value="$PROJECT_DIR$/../ProjectEuler/3ProjectEuler.py" />
+        <option value="$PROJECT_DIR$/../Hackerrank/Day0.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="70" />
-    <option name="y" value="89" />
-    <option name="width" value="939" />
+    <option name="x" value="87" />
+    <option name="y" value="98" />
+    <option name="width" value="820" />
     <option name="height" value="634" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -115,8 +93,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -141,16 +117,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Hackerrank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodingGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="CodingGame" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
-  <component name="RunManager" selected="Python.1ProjectEuler">
-    <configuration default="false" name="1ProjectEuler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjectEuler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../ProjectEuler" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Day0">
+    <configuration default="false" name="3ProjectEuler" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -162,7 +158,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProjectEuler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ProjectEuler/1ProjectEuler.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ProjectEuler/3ProjectEuler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Day0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Hackerrank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Hackerrank" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Hackerrank/Day0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -301,12 +314,32 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <configuration default="false" name="1ProjectEuler" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ProjectEuler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProjectEuler" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ProjectEuler/1ProjectEuler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.1ProjectEuler" />
+      <item index="1" class="java.lang.String" itemvalue="Python.3ProjectEuler" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Day0" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.1ProjectEuler" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.Day0" />
+        <item index="1" class="java.lang.String" itemvalue="Python.3ProjectEuler" />
       </list>
     </recent_temporary>
   </component>
@@ -327,15 +360,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="89" width="939" height="634" extended-state="0" />
+    <frame x="87" y="98" width="820" height="634" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24920128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24878049" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976827" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32976827" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -384,21 +417,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1_The_Descent">
+    <entry file="file://$PROJECT_DIR$/2_Thor">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="34" />
+        <state relative-caret-position="221">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ProjectEuler/1ProjectEuler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -410,13 +435,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_Thor">
+    <entry file="file://$PROJECT_DIR$/1_The_Descent">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="81">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProjectEuler/1ProjectEuler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ProjectEuler/3ProjectEuler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Hackerrank/Day0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>

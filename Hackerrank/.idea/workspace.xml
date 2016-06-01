@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a7411ec-0cd7-4a7b-ab46-56f553ed2263" name="Default" comment="" />
-    <ignored path="ProjectEuler.iws" />
+    <list default="true" id="6d84e824-fde8-449e-9632-6d27920c73b3" name="Default" comment="" />
+    <ignored path="Hackerrank.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +17,39 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="ProjectEuler" />
+    <favorites_list name="Hackerrank" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="day0.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/day0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/day0.py" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="74" />
-    <option name="y" value="126" />
+    <option name="x" value="161" />
+    <option name="y" value="144" />
     <option name="width" value="820" />
     <option name="height" value="634" />
   </component>
@@ -35,24 +63,45 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0a7411ec-0cd7-4a7b-ab46-56f553ed2263" name="Default" comment="" />
-      <created>1463247125331</created>
+      <changelist id="6d84e824-fde8-449e-9632-6d27920c73b3" name="Default" comment="" />
+      <created>1464805214037</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1463247125331</updated>
+      <updated>1464805214037</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="74" y="126" width="820" height="634" extended-state="0" />
+    <frame x="161" y="144" width="820" height="634" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -80,5 +129,15 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/day0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
